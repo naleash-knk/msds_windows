@@ -1,3 +1,3 @@
-const String firebaseApiKey = 'AIzaSyDrsHeQdP10NmP_0OTJ9zBHBwLXitTtTyg';
+const String firebaseApiKey = 'api key';
 const String firebaseProjectId = 'msds-cornerstone';
-const String backendUrl = "https://api-xdy5p7tgda-uc.a.run.app";
+const String backendUrl = "api key";
